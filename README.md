@@ -1,6 +1,6 @@
 # wisata_bandung
 
-A new Flutter project.
+A new Flutter project. Dicoding Codelab
 
 ## Getting Started
 
